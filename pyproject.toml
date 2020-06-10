@@ -6,7 +6,7 @@ authors = ["Keisuke Nishitani"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jeffy = "^1.0.0"
+jeffy = "^1.0.3"
 
 [tool.poetry.dev-dependencies]
 
